@@ -1,10 +1,10 @@
-# Progetto Basi di Dati: Kartodromo <span style="color:red">Punto di Corda</span>
+# Progetto Basi di Dati: Kartodromo Punto di Corda
 
 ### Gabriel Tavcar - SM3201659
 
 ![Demo dell'applicazione](demo.gif)
 
-L'applicazione permette di gestire le operazioni quotidiane del kartodromo "<span style="color:red">Punto di Corda</span>". Le funzionalità principali includono:
+L'applicazione permette di gestire le operazioni quotidiane del kartodromo **Punto di Corda**. Le funzionalità principali includono:
 
 * **Registrazione Nuovo Cliente:** Inserimento dati anagrafici (nome, cognome, data di nascita, email).
 * **Assegnazione Turno e Kart:** Gestione delle assegnazioni piloti ai turni e ai kart disponibili.
@@ -18,4 +18,4 @@ L'applicazione permette di gestire le operazioni quotidiane del kartodromo "<spa
 * **Frontend:** HTML5, CSS.
 * **Backend:** Python con framework Flask.
 * **Database:** MySQL (gestito tramite XAMPP con server Apache).
-* **Sicurezza:** Tutte le operazioni di scrittura nel database (INSERT) e di ricerca (SELECT) utilizzano il parametro `%s`, garantendo la protezione contro le **SQL Injection**.
+* **Sicurezza:** Tutte le operazioni di scrittura nel database (INSERT) e di ricerca (SELECT) utilizzano il parametro `%s`, proteggendo dalle SQL Injection.
