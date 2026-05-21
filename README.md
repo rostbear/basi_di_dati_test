@@ -16,4 +16,4 @@ L'applicazione permette di gestire le operazioni quotidiane del kartodromo **Pun
 * **Frontend:** HTML5, CSS.
 * **Backend:** Python con framework Flask.
 * **Database:** MySQL (gestito tramite XAMPP con server Apache).
-* **Sicurezza:** Tutte le operazioni di scrittura nel database (INSERT) e di ricerca (SELECT) utilizzano il parametro `%s`, proteggendo dalle SQL Injection.
+* **Sicurezza:** Tutte le operazioni di scrittura nel database (INSERT) e di ricerca (SELECT) utilizzano il parametro %s, proteggendo dalle SQL Injection.
