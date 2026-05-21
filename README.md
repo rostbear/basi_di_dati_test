@@ -11,8 +11,6 @@ L'applicazione permette di gestire le operazioni quotidiane del kartodromo **Pun
 * **Monitoraggio Pista:** Visualizzazione dei turni programmati e dei piloti iscritti.
 * **Classifiche:** Visualizzazione dei 10 migliori tempi assoluti, con possibilità di filtrare i tempi per pilota e categoria.
 
----
-
 ### Stack Tecnologico e Sicurezza
 
 * **Frontend:** HTML5, CSS.
