@@ -4,7 +4,7 @@
 
 [PDF Del Progetto](progetto_sm3201659.pdf)
 
-![Demo dell'applicazione](demo.gif)
+[Demo dell'applicazione](demo.gif)
 
 L'applicazione permette di gestire le operazioni quotidiane del kartodromo **Punto di Corda**. Le funzionalità principali includono:
 
