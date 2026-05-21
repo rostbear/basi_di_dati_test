@@ -2,6 +2,8 @@
 
 ### Gabriel Tavcar - SM3201659
 
+[PDF Del Progetto](progetto_sm3201659.pdf)
+
 ![Demo dell'applicazione](demo.gif)
 
 L'applicazione permette di gestire le operazioni quotidiane del kartodromo **Punto di Corda**. Le funzionalità principali includono:
@@ -17,3 +19,4 @@ L'applicazione permette di gestire le operazioni quotidiane del kartodromo **Pun
 * **Backend:** Python con framework Flask.
 * **Database:** MySQL (gestito tramite XAMPP con server Apache).
 * **Sicurezza:** Tutte le operazioni di scrittura nel database (INSERT) e di ricerca (SELECT) utilizzano il parametro %s, proteggendo dalle SQL Injection.
+
