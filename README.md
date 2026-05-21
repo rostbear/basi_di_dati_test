@@ -1,6 +1,5 @@
 # Progetto Basi di Dati: Kartodromo Punto di Corda
-## Gabriel Tavcar
-## SM3201659
+## Gabriel Tavcar SM3201659
 
 ![Demo dell'applicazione](demo.gif)
 
